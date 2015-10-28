@@ -17,7 +17,7 @@
     "join": "#cozycloud, #flynn, ##js, #node.js, #v8, #libuv"
     },{
     "name": "Mozilla",
-    "host": "irc.mozilla.net",
+    "host": "irc.mozilla.org",
     "port": 6697,
     "tls": true,
     "password": "IRC_PASSWD",
