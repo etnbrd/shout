@@ -40,7 +40,7 @@ module.exports = {
   // @type     string
   // @default  "themes/example.css"
   //
-  theme: "themes/morning.css",
+  theme: "themes/glacier.css",
 
   //
   // Autoload users
