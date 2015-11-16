@@ -11,7 +11,7 @@
     "nick": "etnbrd",
     "realname": "etnbrd",
     "commands": [
-      "/msg NickServ identify password",
+      "/msg NickServ identify password"
     ],
     "join": "#cozycloud, #flynn, ##js, #node.js, #v8, #libuv, #archlinux"
     },{
@@ -23,7 +23,7 @@
     "nick": "etnbrd",
     "realname": "etnbrd",
     "commands": [
-      "/msg NickServ identify password",
+      "/msg NickServ identify password"
     ],
     "join": "#insa, #mozlyon, #frenchmoz, #mozillians, #newbies, #js, #pjs"
     }]
